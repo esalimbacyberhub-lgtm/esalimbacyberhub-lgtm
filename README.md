@@ -24,4 +24,5 @@ Daily: SQL, Python (pandas), PostgreSQL, React, TypeScript, Tailwind, Supabase, 
 Learning: Docker, Airflow, dbt, BigQuery, scikit-learn, FastAPI, LLM APIs
 
 ## Contact
-LinkedIn: linkedin.com/in/brian-esalimba-895b7515b
+- Email: esalimbabrian4@gmail.com
+- LinkedIn: [linkedin.com/in/brian-esalimba-895b7515b](https://www.linkedin.com/in/brian-esalimba-895b7515b)
